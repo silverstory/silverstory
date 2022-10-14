@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @silverstory
-- 👀 I’m interested in ramen and chinese noodles and web apps.
-- 🌱 I’m currently learning to cook
-- 💞️ I’m looking to collaborate on eating and web apps made with sveltekit.
+- 👀 I’m interested in ramen, chinese noodles and web apps.
+- 🌱 I’m currently learning to cook and learning sveltekit.
+- 💞️ I’m looking to collaborate on eating and making web apps made with sveltekit.
 - 📫 How to reach me... mail me at sachielshaheen@gmail.com, or look for me around, I'm at Japanese and Chinese restaurants
 
 <!---
