@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @silverstory
-- 👀 I’m interested in ramen, chinese noodles and web apps.
-- 🌱 I’m currently learning to cook and learning sveltekit.
-- 💞️ I’m looking to collaborate on eating and making web apps made with sveltekit.
-- 📫 How to reach me... mail me at sachielshaheen@gmail.com, or look for me around, I'm at Japanese and Chinese restaurants
+### Hi there! 👋
 
-<!---
-silverstory/silverstory is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a **Web Developer** specializing in **Front-End Development** and **User Experience Design**. I’m passionate about building user-friendly, engaging interfaces that make a difference. 
+
+Beyond web development, I also love diving into **data analysis** and creating **data visualizations** that turn complex data into meaningful insights.
+
+In my free time, you’ll likely find me enjoying some **Chinese** or **Japanese noodles**! 🍜
+
+Feel free to explore my projects, and let's connect!
